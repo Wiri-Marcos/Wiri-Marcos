@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Olá! Sou Wirillanderson Marcos, Desenvolvedor Full Stack Sênior apaixonado por criar soluções inteligentes, escaláveis e integradas. Tenho mais de 7 anos de experiência em desenvolvimento de sistemas SaaS, automação de processos e integração entre plataformas através de APIs.
 
 
