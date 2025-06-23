@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudando de Front-end e Back-end que está a procura de se qualificar <br>mais ainda e nunca deixa de estudar novas linguagens.
+👋 Olá! Sou Wirillanderson Marcos, Desenvolvedor Full Stack Sênior apaixonado por criar soluções inteligentes, escaláveis e integradas. Tenho mais de 7 anos de experiência em desenvolvimento de sistemas SaaS, automação de processos e integração entre plataformas através de APIs.
 
 
 ## 🌐 Socials:
